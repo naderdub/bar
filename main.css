@@ -51,7 +51,7 @@ nav	{
 
 a.active {
 	text-decoration: none;
-	border-bottom: 5px solid black;
+	border-bottom: 7px solid black;
 	}
 
 
@@ -63,7 +63,7 @@ a:link, a:visited {
 
 a:hover, a:active	{
 	text-decoration: none;
-	border-bottom: 5px solid black;
+	border-bottom: 7px solid black;
 }
 
 
