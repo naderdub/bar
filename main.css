@@ -16,10 +16,11 @@ h1 {
 
 h2 {
 	font-family: 'Raleway', sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	color: #231f20;
 	padding-top: 10px;
 	font-weight: 400px;
+	text-transform: uppercase;
 }
 h3 {
 	font-family: 'Raleway', sans-serif;
@@ -59,6 +60,7 @@ a:link, a:visited {
 	text-decoration: none;
 	color: #231f20;
 	padding: 0px 20px 0px;
+
 }
 
 a:hover, a:active	{
