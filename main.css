@@ -1,0 +1,65 @@
+body {
+	background-color: #f7f7f7;
+	margin-top: 50px;
+	overflow: scroll;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+	text-align: center;
+	color: #231f20;
+}
+
+h2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	text-align: center;
+	color: #231f20;
+	padding-top: 10px;
+}
+
+p {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	text-align: center;
+	color: #231f20;
+}
+
+hr {
+  display: block;
+  width: 30%;
+  border-style: solid;
+  border-width: 1px;
+  color: #231f20;
+  background-color: #231f20;
+}
+
+
+
+
+/*WORK PAGE*/
+
+.cocktail {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+
+@media screen and (max-width: 1020px) {
+	.cocktail {
+		display: block;
+		text-align: center;
+		left: auto;
+		max-width: 100%;
+	}
+
+	hr {
+	  width: 80%;
+	}
+	h1 {
+	font-size: 30px;
+}
+}
